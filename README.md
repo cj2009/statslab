@@ -5,7 +5,7 @@ This is the repository for my PythonStatsLab project
 
 PythonStatsLab is a collection of Python modules to be used as learning aids for introductory and intermediate-level probability and statistics courses. They can be used to calculate probabilities, z-alpha values, calculate confidence intervals, etc.
 
-These functions would come in handy to anyone taking courses in probability, statistics or data analysis, and they're a good way to learn how common statistical packages compute their solutions. For example, there are several numerical integration techniques (Riemann sum, Simpson's method, Taylor expansion, etc.) that can be used to integrate the Bell Curve, some of which are covered in my program.
+These functions would come in handy to anyone taking courses in probability, statistics or data analysis, and they're a good way to learn how common statistical packages compute their solutions. For example, there are several numerical integration techniques (Riemann sum, Simpson's method, Taylor expansion, etc.) that can be used to integrate the Normal Curve (commonly known as the Bell Curve), some of which are covered in my program.
 
 Current Features
 ----------------
